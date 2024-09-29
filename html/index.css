@@ -33,8 +33,12 @@ main {
     margin-right: ;
 }
 
-#logiciels {
-    padding: 200px;
+#logi {
+    padding-left: 120px;
+}
+
+#quali {
+    padding-left: 180px;
 }
 
 #expeperso {
