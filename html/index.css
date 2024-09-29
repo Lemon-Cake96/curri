@@ -3,7 +3,14 @@
 }
 
 body {
+    color: #C8AA6E;
+    background-color: #0A323C;
+}
 
+main {
+    border-style: groove;
+    border-color: #C8AA6E;
+    border-width: 10px;
 }
 
 #job_position {
@@ -11,5 +18,29 @@ body {
 }
 
 #comp {
+    text-align: center;
+}
+
+#block1 {
+    display: inline-flex;
+    margin-left: 25%;
+    margin-right: ;
+}
+
+#block2 {
+    display: inline-flex;
+    margin-left: 25%;
+    margin-right: ;
+}
+
+#logiciels {
+    padding: 200px;
+}
+
+#expeperso {
+    text-align: center;
+}
+
+#formation {
     text-align: center;
 }
