@@ -1,3 +1,20 @@
+#banner {
+    background-color: #091428;
+    display: inline-flex;
+
+}
+
+.button {
+    border-style: groove;
+    border-color: #785A28;
+    padding: 10px;
+}
+
+.button:hover {
+    border-color: #C8AA6E;
+}
+
+
 #name {
     text-align: center;
 }
